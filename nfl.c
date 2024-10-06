@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-// Scorign plays and corresponding names
+// Scoring plays and corresponding names
 int plays[] = {8, 7, 6, 3, 2};
 char *playNames[] = {"TD + 2pt", "TD + FG", "TD", "3pt FG", "Safety"};
 
